@@ -1,0 +1,6 @@
+c:\users\p501\documents\visual studio 2017\Projects\mal_sat\mal_sat\bin\Debug\mal_sat.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\mal_sat\mal_sat\bin\Debug\mal_sat.exe
+c:\users\p501\documents\visual studio 2017\Projects\mal_sat\mal_sat\bin\Debug\mal_sat.pdb
+c:\users\p501\documents\visual studio 2017\Projects\mal_sat\mal_sat\obj\Debug\mal_sat.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\mal_sat\mal_sat\obj\Debug\mal_sat.exe
+c:\users\p501\documents\visual studio 2017\Projects\mal_sat\mal_sat\obj\Debug\mal_sat.pdb
